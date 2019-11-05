@@ -1,0 +1,208 @@
+{
+    "questions": [
+        {
+            "question": "The word boycott derives from the name of Charles C. Boycott, an English land agent in Ireland that was ostracized for refusing to reduce rent.",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "that was ostracized for refusing"
+                },
+                {
+                    "key": "B",
+                    "answer": "who was ostracized for refusing"
+                },
+                {
+                    "key": "C",
+                    "answer": "which was ostracized for refusing"
+                },
+                {
+                    "key": "D",
+                    "answer": "that had been ostracized for refusing"
+                },
+                {
+                    "key": "E",
+                    "answer": "who had been ostracized for refusing"
+                }
+            ],
+            "right": [
+                "B"
+            ],
+            "explanation": "When referring to a person, use \"who,\" not \"that\" [(A), (D)] or \"which\" (C). The past perfect \"had been\" [(D), (E)] is inappropriate in this context: simple past \"was ostracized\" refers to the historical event itself. Past perfect would only be used with something identified as leading up to the past event, e.g. \"...who had been refusing to reduce rent for years and finally was ostracized.\""
+        },
+        {
+            "question": "As a result of his method for early music education, Shinichi Suzuki has been known as one of the world's great violin teachers.",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "has been known as one"
+                },
+                {
+                    "key": "B",
+                    "answer": "had been known as one"
+                },
+                {
+                    "key": "C",
+                    "answer": "is seen as one"
+                },
+                {
+                    "key": "D",
+                    "answer": "is being seen as one"
+                },
+                {
+                    "key": "E",
+                    "answer": "has been one"
+                }
+            ],
+            "right": [
+                "C"
+            ],
+            "explanation": "Present perfect (A) implies Suzuki is not still known thusly. Past perfect (B) implies he stopped being known thusly in the past. Also, \"known\" is less accurate than \"seen\": the former suggests fact; the latter connotes perception/view/opinion, the case here. Present progressive (D) is awkward and suggests the opinion is only current and short-term. \"Has been\" without \"seen\" (E) changes the meaning from public opinion to fact-and past, not present, fact."
+        },
+        {
+            "question": "Last night the weather forecaster announced that this is the most rainy season the area has had in the past decade.",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "this is the most rainy season the"
+                },
+                {
+                    "key": "B",
+                    "answer": "this has been the most rainy season the"
+                },
+                {
+                    "key": "C",
+                    "answer": "this was the most rainy season the"
+                },
+                {
+                    "key": "D",
+                    "answer": "this is noted as the most rainy season the"
+                },
+                {
+                    "key": "E",
+                    "answer": "this is the rainiest season the"
+                }
+            ],
+            "right": [
+                "E"
+            ],
+            "explanation": ""
+        },
+        {
+            "question": "Although Mandy is younger than her sister, Mandy is the tallest of the two.",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "is the tallest of the"
+                },
+                {
+                    "key": "B",
+                    "answer": "is the taller of the"
+                },
+                {
+                    "key": "C",
+                    "answer": "has been the taller of the"
+                },
+                {
+                    "key": "D",
+                    "answer": "is the most tall of the"
+                },
+                {
+                    "key": "E",
+                    "answer": "is the more taller of the"
+                }
+            ],
+            "right": [
+                "B"
+            ],
+            "explanation": "When comparing two things/people, use the comparative (-er/more), not the superlative (- est/most), only used when comparing three or more. \"Has been\" (C) is only correct when sentence context warrants, e.g. \"...has been the taller of the two for three years.\" Here it is extraneous. \"Most tall\" (D) is doubly incorrect: once for using superlative, not comparative; and again for using \"most\"(/\"more\") instead of \"-est\"(/\"-er\") with a one-syllable adjective. \"More taller\" (E) is an incorrect double/redundant comparative."
+        },
+        {
+            "question": "When Katherine Hepburn's play came to town, all the tickets had sold out far in advance.",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "had sold out far"
+                },
+                {
+                    "key": "B",
+                    "answer": "have sold out far"
+                },
+                {
+                    "key": "C",
+                    "answer": "were sold out far"
+                },
+                {
+                    "key": "D",
+                    "answer": "had been sold out far"
+                },
+                {
+                    "key": "E",
+                    "answer": "had been sold out for"
+                }
+            ],
+            "right": [
+                "D"
+            ],
+            "explanation": "Though common, using \"sold out\" in active voice with \"tickets\" as the subject is undesirable since tickets cannot literally sell themselves, so passive voice is more appropriate. Also, past perfect \"had been sold out\" is more correct than simple past tense \"were sold out\" (C) since the selling out preceded when the play came to town (past tense). \"For\" (E) instead of \"far\" in advance is the wrong preposition/word choice for the meaning and makes no sense."
+        },
+        {
+            "question": "The origins of most sports is unknown.",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "sports is unknown"
+                },
+                {
+                    "key": "B",
+                    "answer": "sports have been unknown"
+                },
+                {
+                    "key": "C",
+                    "answer": "sports are unknown"
+                },
+                {
+                    "key": "D",
+                    "answer": "sports has been unknown"
+                },
+                {
+                    "key": "E",
+                    "answer": "sports are now unknown"
+                }
+            ],
+            "right": [
+                "C"
+            ],
+            "explanation": "Subject-verb agreement: The subject \"origins\" is plural, so the verb must agree with \"are.\" The singular \"is\" (A) or \"has been\" (D) is incorrect. Present perfect \"have been\" (B) only applies if the context dictates it, e.g. \"have been unknown until recently.\" Adding \"now\" (E) changes the meaning, implying they were previously known."
+        },
+        {
+            "question": "Neither of the Smith brothers expect to be drafted by a major league team this year.",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "expect to be drafted"
+                },
+                {
+                    "key": "B",
+                    "answer": "expects to be drafted"
+                },
+                {
+                    "key": "C",
+                    "answer": "has expected to be drafted"
+                },
+                {
+                    "key": "D",
+                    "answer": "is expecting to be drafted"
+                },
+                {
+                    "key": "E",
+                    "answer": "was expecting to be drafted"
+                }
+            ],
+            "right": [
+                "B"
+            ],
+            "explanation": "\"Neither\" is singular, so \"expects\" is correct. \"Expect\" (A) is plural. Present perfect \"has expected\" (C) is superfluous and awkward, as are present progressive \"is expecting\" (D) and past progressive \"was expecting\" (E). These would only apply if followed by (e.g.) \"...until now\" for (C) and (E) or \"...until next year\" (D)."
+        }
+    ],
+    "parent": []
+}

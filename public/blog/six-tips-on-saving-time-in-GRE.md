@@ -1,0 +1,16 @@
+## Six tips to save time in GRE
+
+### The two minute rule 
+Always remember the two minute rule, which says that you should never spend more than 2 minutes on a single question on the GRE. After 2 minutes, if you still can’t figure out a solution, find out an alternative approach, or start a guessing strategy. But, be sure to be done by 2 minutes, or else it will hurt your chances of scoring high on the GRE.
+### Timed Practice 
+As we discussed many, many times previously, it doesn’t matter whether you can answer a question correctly. It only matters whether you can answer a question within the limited time the GRE will give you. For the math section, you need to answer 20 questions in 30 minutes, and for the verbal section, 20 in 35. So, make sure that you never practice without a stopwatch by your side. If it takes you three or four minutes to do a problem, make it a point to do it again and again, until you can complete it confidently, correctly, and within the time constraints.
+### Make extensive use of the Process of Elimination 
+Learn to live and die by the process of elimination strategy, which is one of the best strategies ever. Whenever you come across a question to which you have no idea how to answer, this process can come in very handy. If you are new to this and don’t know what the process of elimination is, it is a simple process where you eliminate options based on how irrelevant or wrong they sound in the context of the give question, and then end up with that one option that sounds the least incorrect to you. Then you choose that option and proceed
+### Learn to move on 
+Do not spend much time on questions you think you cannot answer. If you think a question is rather difficult, and it is going to take you more than two minutes to get anywhere close to answering it, guess the answer, mark the question, and move on. Don’t fall prey to these enticing but difficult questions, and lose out on valuable time which you can use for the rest of the section.
+### Maintain a GRE Cheat Sheet 
+As you work, build your formula/strategy notebook. If you find a method that works for you for a specific question type, write down the method. If you discover a great formula for something, write it down. If you find a way of analyzing lists or realize that you keep forgetting about special quadratics, make a note to remind yourself about them before every study session. Successful studying is about learning from your mistakes.
+### Practice guessing 
+Sometimes you may find that you have problems with timing, especially when it comes to leaving the hard questions. What you can do to avoid that, is take an experiment practice session. For example, you can take a test on which if you don’t answer a question within 2 minutes, you simply move on. By doing this, you can simply guess on all questions after 2 minutes, and then you can easily measure the time you have left for hard questions.
+
+[Tips for eassay writing in GRE](https://meroexam.com/blog/tips-for-essay-writing-in-gre)

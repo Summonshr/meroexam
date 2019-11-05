@@ -1,0 +1,95 @@
+{
+    "questions": [
+      {
+        "compare": true,
+        "first": "$y^2$",
+        "second": "80",
+        "right": [
+          "B"
+        ],
+        "question": "$x^2-1=y$ and $x=3$"
+      },
+      {
+        "compare": true,
+        "question": "The gross receipts from the sale of $t$ tickets, at &#36;17 per ticket, total &#36;16,660.",
+        "first": "$t$",
+        "second": "1,000",
+        "right": [
+          "B"
+        ]
+      },
+      {
+        "compare": true,
+        "question": "Points $T$ and $U$ are on a circle with center $O$",
+        "first": "$OT$",
+        "second": "$TU$",
+        "right": [
+          "D"
+        ]
+      },
+      {
+        "compare": true,
+        "question": "A box contains 20 marbles all of which are solid colored; 5 of the marbles are green and 10 of the marbles are fed",
+        "first": "The probability that a marble selected at random form the box will be green",
+        "second": "The probability that a marble selected at random from the box will be neither red now green",
+        "right": [
+          "C"
+        ]
+      },
+      {
+        "compare": true,
+        "first": "Eleven thousand plus eleven hundred plus eleven",
+        "second": "11,111",
+        "right": [
+          "A"
+        ]
+      },
+      {
+        "compare": true,
+        "img": "/questions/17.png",
+        "first": "$x$",
+        "second": "15",
+        "right": [
+          "B"
+        ]
+      },
+      {
+        "compare": true,
+        "question": "The cost $c$ of an order of $n$ special envelopes is given by $c=(0.50)+15$",
+        "first": "The cost of an order of 500 special envelopes",
+        "second": "$260",
+        "right": [
+          "A"
+        ]
+      },
+      {
+        "compare": true,
+        "question": "The average (arithmetic mean) of 7, 9, and $x$ is greater than 9.",
+        "first": "$x$",
+        "second": "11",
+        "right": [
+          "A"
+        ]
+      },
+      {
+        "compare": true,
+        "question": "$a>0$",
+        "first": "$(4\\sqrt{5a})^2$",
+        "second": "$40a$",
+        "right": [
+          "A"
+        ]
+      },
+      {
+        "compare": true,
+        "first": "$\\frac{0.27}{0.53}$",
+        "second": "$\\frac{0.027}{0.053}$",
+        "right": [
+          "C"
+        ]
+      }
+    ],
+    "parent": [
+      "The top and bottom of each bar indicate, respectively,\nthe highest and lowest daily number of shirts sold during \nthe month. The heavy line across each bar indicates the\naverage (arithmetic mean) number of shirts sold per day\nduring the month."
+    ]
+  }

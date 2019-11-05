@@ -1,0 +1,97 @@
+{
+    "questions": [
+      {
+        "question": "x, y, and z are coordinates of three points on the number line in given image.",
+        "img": "/questions/8.PNG",
+        "compare": true,
+        "first": "${xy}$",
+        "second": "${xz}$",
+        "right": [
+          "B"
+        ]
+      },
+      {
+        "question": "10 inches of snowfall is equivalent to 1 inch of rainfall. (1 foot = 12 inches)",
+        "compare": true,
+        "first": "The number of inches of rainfall equivalent to 1 food of snowfall",
+        "second": "1",
+        "right": [
+          "A"
+        ]
+      },
+      {
+        "question": "${b}>{0}$",
+        "compare": true,
+        "first": "${a}-{b}$",
+        "second": "${b}-{a}$",
+        "right": [
+          "D"
+        ]
+      },
+      {
+        "question": "The geometric mean of any two positive numbers ${x}$ and ${y}$ is ${xy}$.",
+        "compare": true,
+        "first": "The geometric mean of 4 and 8",
+        "second": "The average (arithmetic mean) of 4 and 8",
+        "right": [
+          "B"
+        ]
+      },
+      {
+        "compare": true,
+        "first": "$\\frac{16}{35}$",
+        "second": "$\\frac{4}{9}$",
+        "right": [
+          "A"
+        ]
+      },
+      {
+        "compare": true,
+        "question": "${1}<{x}<{y}$",
+        "first": "${x}+{4}$",
+        "second": "${y}$",
+        "right": [
+          "D"
+        ]
+      },
+      {
+        "compare": true,
+        "img": "/questions/9.PNG",
+        "first": "The length of ${ST}$",
+        "second": "The length of ${RS}$",
+        "right": [
+          "D"
+        ]
+      },
+      {
+        "compare": true,
+        "question": "${x}+{5}={3}$    and ${y}={2x}$",
+        "first": "${x}$",
+        "second": "${y}$",
+        "right": [
+          "A"
+        ]
+      },
+      {
+        "question": "1 gallon = 8 pints and 1 quart = 2 pints",
+        "compare": true,
+        "first": "The least number of half-pint bottles needed to hold x quarts of milk",
+        "second": "The least number of one-quart bottles needed to hold x gallons of milk",
+        "right": [
+          "C"
+        ]
+      },
+      {
+        "img": "/questions/10.png",
+        "compare": true,
+        "first": "The length of diagonal AB",
+        "second": "$\\sqrt{2}{e}$",
+        "right": [
+          "A"
+        ]
+      }
+    ],
+    "parent": [
+      
+    ]
+  }

@@ -1,0 +1,174 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+label.right-answer {
+  background: rgb(49, 122, 20);
+  color: rgb(223, 255, 226);
+}
+
+label.wrong-answer {
+  background: rgb(102, 7, 7);
+  color: rgb(255, 225, 225);
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0
+  }
+
+  to {
+    opacity: 1
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0
+  }
+
+  to {
+    opacity: 1
+  }
+}
+
+.fadeIn {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn
+}
+
+.animated {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both
+}
+
+.animated.infinite {
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite
+}
+
+.animated.delay-1s {
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s
+}
+
+.animated.delay-2s {
+  -webkit-animation-delay: 2s;
+  animation-delay: 2s
+}
+
+.animated.delay-3s {
+  -webkit-animation-delay: 3s;
+  animation-delay: 3s
+}
+
+.animated.delay-4s {
+  -webkit-animation-delay: 4s;
+  animation-delay: 4s
+}
+
+.animated.delay-5s {
+  -webkit-animation-delay: 5s;
+  animation-delay: 5s
+}
+
+.animated.fast {
+  -webkit-animation-duration: .8s;
+  animation-duration: .8s
+}
+
+.animated.faster {
+  -webkit-animation-duration: .5s;
+  animation-duration: .5s
+}
+
+.animated.slow {
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s
+}
+
+.animated.slower {
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s
+}
+
+.react-confirm-alert-button-group button:nth-child(2) {
+  background: green !important;
+}
+
+*,
+*::before,
+*::after {
+  border-color: #000000;
+}
+
+.markdown h2 {
+  @apply font-bold text-2xl border-b mb-4
+}
+
+.markdown h3 {
+  @apply font-bold text-xl mb-4
+}
+
+
+.markdown p {
+  @apply mb-4 leading-loose tracking-tight
+}
+
+.markdown p strong {
+  @apply mb-4 leading-loose tracking-tight text-lg
+}
+
+.markdown ul li {
+  @apply text-blue-800 mb-2 pl-1 leading-loose;
+}
+
+.markdown ul li {
+  font-family: serif;
+}
+
+.markdown ul li p {
+  display: inline;
+  margin-left: 10px;
+}
+
+.markdown ul li:before {
+  content: '> ';
+  font-weight: 700;
+}
+
+.markdown {
+  font-family: 'Enriqueta', sans-serif;
+}
+
+.markdown a {
+  @apply text-blue-800 text-lg
+}
+
+iframe {
+  width: 100%
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #c7b5b6;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #cc151c;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

@@ -1,0 +1,12 @@
+{
+    question: '',
+    options: [
+        {key: 'A', answer: ''},
+        {key: 'B', answer: ''},
+        {key: 'C', answer: ''},
+        {key: 'D', answer: ''},
+        {key: 'E', answer: ''},
+    ],
+    right: [''],
+    parent: 1
+},

@@ -1,0 +1,1 @@
+tailwind build src/App.css -o src/main.css

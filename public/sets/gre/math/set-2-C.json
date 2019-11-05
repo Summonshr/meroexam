@@ -1,0 +1,321 @@
+{
+    "questions": [
+      {
+        "question": "The average (arithmetic mean) of $|{x}|$ and ${x}$ equals",
+        "options": [
+          {
+            "key": "A",
+            "answer": "$x$ if $x>0$, and equals $0$ if $x≤0$"
+          },
+          {
+            "key": "B",
+            "answer": "$-x$ if $x<0$, and equals $0$ if $x≥0$"
+          },
+          {
+            "key": "C",
+            "answer": "$0$, regardless of the value of $x$"
+          },
+          {
+            "key": "D",
+            "answer": "$x$, regardless of the value of $x$"
+          },
+          {
+            "key": "E",
+            "answer": "$|x|$, regardless of the value of $x$"
+          }
+        ],
+        "right": [
+          "A"
+        ]
+      },
+      {
+        "img": "/questions/12.png",
+        "question": "Expenditures for physician services in 1989 were approximately how many billion dollars more than expenditures for nursing care?",
+        "options": [
+          {
+            "key": "A",
+            "answer": "38.5"
+          },
+          {
+            "key": "B",
+            "answer": "66.0"
+          },
+          {
+            "key": "C",
+            "answer": "82.5"
+          },
+          {
+            "key": "D",
+            "answer": "110.0"
+          },
+          {
+            "key": "E",
+            "answer": "154.0"
+          }
+        ],
+        "right": [
+          "B"
+        ]
+      },
+      {
+        "img": "/questions/12.png",
+        "question": "If health care expenditures accounted for 11 percent of the gross domestic product in 1989, then the gross domestic product was approximately how many billion dollars?",
+        "options": [
+          {
+            "key": "A",
+            "answer": "605"
+          },
+          {
+            "key": "B",
+            "answer": "5,000"
+          },
+          {
+            "key": "C",
+            "answer": "5,500"
+          },
+          {
+            "key": "D",
+            "answer": "6,050"
+          },
+          {
+            "key": "E",
+            "answer": "6,500"
+          }
+        ],
+        "right": [
+          "B"
+        ]
+      },
+      {
+        "img": "/questions/13.png",
+        "question": "The total enrollment in 1985 was approximately how much greater than the total enrollment in 1960? ",
+        "options": [
+          {
+            "key": "A",
+            "answer": "4 million"
+          },
+          {
+            "key": "B",
+            "answer": "5 million"
+          },
+          {
+            "key": "C",
+            "answer": "7 million"
+          },
+          {
+            "key": "D",
+            "answer": "9 million"
+          },
+          {
+            "key": "E",
+            "answer": "11 million"
+          }
+        ],
+        "right": [
+          "D"
+        ]
+      },
+      {
+        "img": "/questions/13.png",
+        "question": "For which of the years shown was the ratio of male to female enrollment greatest?",
+        "options": [
+          {
+            "key": "A",
+            "answer": "1980"
+          },
+          {
+            "key": "B",
+            "answer": "1975"
+          },
+          {
+            "key": "C",
+            "answer": "1970"
+          },
+          {
+            "key": "D",
+            "answer": "1965"
+          },
+          {
+            "key": "E",
+            "answer": "1960"
+          }
+        ],
+        "right": [
+          "E"
+        ]
+      },
+      {
+        "img": "/questions/13.png",
+        "question": "For which of the following periods was the percent increase in female enrollment the greatest? ",
+        "options": [
+          {
+            "key": "A",
+            "answer": "1960 to 1965"
+          },
+          {
+            "key": "B",
+            "answer": "1965 to 1970"
+          },
+          {
+            "key": "C",
+            "answer": "1970 to 1975"
+          },
+          {
+            "key": "D",
+            "answer": "1975 to 1980"
+          },
+          {
+            "key": "E",
+            "answer": "1980 to 1985"
+          }
+        ],
+        "right": [
+          "A"
+        ]
+      },
+      {
+        "question": "If a certain town has 90 doctors and the ratio of mate doctors to female doctors is 3 to 2, then the number of female doctors in this town is ",
+        "options": [
+          {
+            "key": "A",
+            "answer": "18"
+          },
+          {
+            "key": "B",
+            "answer": "30"
+          },
+          {
+            "key": "C",
+            "answer": "36"
+          },
+          {
+            "key": "D",
+            "answer": "45"
+          },
+          {
+            "key": "E",
+            "answer": "54"
+          }
+        ],
+        "right": [
+          "C"
+        ]
+      },
+      {
+        "question": "Which of the following points $(x, y)$ is NOT on the graph of $y < 2x$?",
+        "options": [
+          {
+            "key": "A",
+            "answer": "(-3, -7)"
+          },
+          {
+            "key": "B",
+            "answer": "(3,3)"
+          },
+          {
+            "key": "C",
+            "answer": "(2,-9)"
+          },
+          {
+            "key": "D",
+            "answer": "(2,2)"
+          },
+          {
+            "key": "E",
+            "answer": "(2,5)"
+          }
+        ],
+        "right": [
+          "E"
+        ]
+      },
+      {
+        "question": "If apples sell for &#36;0.68 per pound and Juanita bought 36 apples for &#36;8.16, then the average (arithmetic mean) number of apples per pound was ",
+        "options": [
+          {
+            "key": "A",
+            "answer": "$\\frac{1}{3}$"
+          },
+          {
+            "key": "B",
+            "answer": "$\\frac{1}{2}$"
+          },
+          {
+            "key": "C",
+            "answer": "$1$"
+          },
+          {
+            "key": "D",
+            "answer": "$2$"
+          },
+          {
+            "key": "E",
+            "answer": "$3$"
+          }
+        ],
+        "right": [
+          "E"
+        ]
+      },
+      {
+        "question": "The sum of the first 50 positive integers is 1, 275. What is the sum of the integers from 51 to 100. ",
+        "options": [
+          {
+            "key": "A",
+            "answer": "2,525"
+          },
+          {
+            "key": "B",
+            "answer": "2,550"
+          },
+          {
+            "key": "C",
+            "answer": "3,250"
+          },
+          {
+            "key": "D",
+            "answer": "3,775"
+          },
+          {
+            "key": "E",
+            "answer": "5,050"
+          }
+        ],
+        "right": [
+          "D"
+        ]
+      },
+      {
+        "question": "The figure shows a semicircle with center $O$ and a quarter circle with center $R$. If $OQ = 4$ and $QR = 6$, what is the ratio of the area of the shaded region to the area of the semicircular region? ",
+        "img": "/questions/15.png",
+        "options": [
+          {
+            "key": "A",
+            "answer": "2:3"
+          },
+          {
+            "key": "B",
+            "answer": "4:3"
+          },
+          {
+            "key": "C",
+            "answer": "8:9"
+          },
+          {
+            "key": "D",
+            "answer": "9:4"
+          },
+          {
+            "key": "E",
+            "answer": "9:8"
+          }
+        ],
+        "right": [
+          "E"
+        ]
+      }
+    ],
+    "parent": [
+      
+    ]
+  }

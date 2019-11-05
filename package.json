@@ -1,0 +1,56 @@
+{
+  "name": "meroexam",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.21",
+    "@fortawesome/free-solid-svg-icons": "^5.10.1",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "axios": "^0.19.0",
+    "crypto-js": "^3.1.9-1",
+    "global": "^4.4.0",
+    "js-beautify": "^1.10.2",
+    "lodash": "^4.17.15",
+    "pretty": "^2.0.0",
+    "puppeteer": "^1.19.0",
+    "query-string": "^6.8.3",
+    "react": "^16.9.0",
+    "react-app-polyfill": "^1.0.3",
+    "react-confirm-alert": "^2.4.1",
+    "react-countdown-now": "^2.1.1",
+    "react-dom": "^16.9.0",
+    "react-ga": "^2.6.0",
+    "react-helmet": "^5.2.1",
+    "react-latex": "^1.4.0",
+    "react-markdown": "^4.1.0",
+    "react-notifications": "^1.4.3",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.1.1",
+    "react-share": "^3.0.1",
+    "react-tooltip": "^3.11.1",
+    "react-youtube": "^7.9.0",
+    "tailwindcss": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "compile": "tailwind build src/App.css -o src/main.css",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

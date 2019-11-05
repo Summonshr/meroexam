@@ -1,0 +1,235 @@
+{
+    "questions": [
+        {
+            "question": "In the expression \"One hardly sees the wood for the trees\", the author apparently intends the word trees to be analogous to",
+            "parent": 0,
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "features of Doran’s language style"
+                },
+                {
+                    "key": "B",
+                    "answer": "details learned from oral sources"
+                },
+                {
+                    "key": "C",
+                    "answer": "personality of a famous actor"
+                },
+                {
+                    "key": "D",
+                    "answer": "detail’s of Garrick’s life"
+                },
+                {
+                    "key": "E",
+                    "answer": "stage triumphs of an astonishing player"
+                }
+            ],
+            "right": [
+                "B"
+            ]
+        },
+        {
+            "question": "The doubt referred to in line 7 concerns whether",
+            "multiple": true,
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "the stage personalities of the past would appeal on a personal level to people like the author"
+                },
+                {
+                    "key": "B",
+                    "answer": "their contemporaries would have understood famous actors"
+                },
+                {
+                    "key": "C",
+                    "answer": "the acting of famous stage personalities would appeal to us today"
+                },
+                {
+                    "key": "D",
+                    "answer": "Garrick was as great as he is portrayed"
+                },
+                {
+                    "key": "E",
+                    "answer": "historical records can reveal personality"
+                }
+            ],
+            "right": [
+                "A"
+            ]
+        },
+        {
+            "question": "Information supplied in the passage is sufficient to answer which of the following questions?",
+            "parent": 0,
+            "multiple": true,
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "Who did Doran think was probably the best English actor?"
+                },
+                {
+                    "key": "B",
+                    "answer": "What did Doran think of Garrick?"
+                },
+                {
+                    "key": "C",
+                    "answer": "Would the author give a definite answer to the first question posed in the passage?"
+                }
+            ],
+            "right": [
+                "A",
+                "C"
+            ]
+        },
+        {
+            "question": "The author implies that his first definition of a sanctuary",
+            "parent": 1,
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "totally wrong"
+                },
+                {
+                    "key": "B",
+                    "answer": "somewhat idealistic"
+                },
+                {
+                    "key": "C",
+                    "answer": "unhelpful"
+                },
+                {
+                    "key": "D",
+                    "answer": "indefensible"
+                },
+                {
+                    "key": "E",
+                    "answer": "immutable"
+                }
+            ],
+            "right": [
+                "B"
+            ]
+        },
+        {
+            "question": "The author’s argument that destroying bot-flies and mosquitoes would be a beneficial action is most weakened by all of thefollowing except",
+            "parent": 1,
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "parasites have an important role to play in the regulation of populations"
+                },
+                {
+                    "key": "B",
+                    "answer": "the elimination of any species can have unpredictable effects on the balance of nature"
+                },
+                {
+                    "key": "C",
+                    "answer": "the pests themselves are part of the food chain"
+                },
+                {
+                    "key": "D",
+                    "answer": "these insects have been introduced to the area by human activities"
+                },
+                {
+                    "key": "E",
+                    "answer": "elimination of these insects would require the use of insecticides that kill a wide range of insects"
+                }
+            ],
+            "right": [
+                "D"
+            ]
+        },
+        {
+            "question": "It can be inferred that the passage is",
+            "parent": 1,
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "part of an article in a scientific journal"
+                },
+                {
+                    "key": "B",
+                    "answer": "extracted from the minutes of a nature club"
+                },
+                {
+                    "key": "C",
+                    "answer": "part of a speech delivered to an educated audience"
+                },
+                {
+                    "key": "D",
+                    "answer": "a speech delivered in a court of law"
+                },
+                {
+                    "key": "E",
+                    "answer": "from a polemical article published in a magazine"
+                }
+            ],
+            "right": [
+                "C"
+            ]
+        },
+        {
+            "question": "The purpose of the final paragraph is",
+            "parent": 1,
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "to sum up the main points of the author’s argument"
+                },
+                {
+                    "key": "B",
+                    "answer": "to urge a solution to an increasingly pressing problem"
+                },
+                {
+                    "key": "C",
+                    "answer": "to qualify the author’s definition of an important term"
+                },
+                {
+                    "key": "D",
+                    "answer": "to propose a program"
+                },
+                {
+                    "key": "E",
+                    "answer": "to suggest that man should not intervene in natural environments"
+                }
+            ],
+            "right": [
+                "C"
+            ]
+        },
+        {
+            "question": "Which of the following is the most logical completion of the sentence above?",
+            "parent": 2,
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "emotion is more important than justice"
+                },
+                {
+                    "key": "B",
+                    "answer": "punishment for criminals is more important than crime prevention"
+                },
+                {
+                    "key": "C",
+                    "answer": "crime prevention is not an important issue"
+                },
+                {
+                    "key": "D",
+                    "answer": "money has too high a value"
+                },
+                {
+                    "key": "E",
+                    "answer": "the law should not be concerned with what happens after jail"
+                }
+            ],
+            "right": [
+                "B"
+            ]
+        }
+    ],
+    "parent": [
+        "Should we really care for the greatest actors of the past could\nwe have them before us? Should we find them too different from\nour accent of thought, of feeling, of speech, in a thousand minute\nparticulars which are of the essence of all three? Dr. Doran's\n5) long and interesting records of the triumphs of Garrick, and other\nless familiar, but in their day hardly less astonishing, players,\ndo not relieve one of the doubt. Garrick himself, as sometimes\nhappens with people who have been the subject of much anecdote\nand other conversation, here as elsewhere, bears no very distinct\n10) figure. One hardly sees the wood for the trees. On the other hand,\nthe account of Betterton, \"perhaps the greatest of English\nactors,\" is delightfully fresh. That intimate friend of Dryden,\nTillatson, Pope, who executed a copy of the actor's portrait by\nKneller which is still extant, was worthy of their friendship;\n15) his career brings out the best elements in stage life. The stage\nin these volumes presents itself indeed not merely as a mirror of\nlife, but as an illustration of the utmost intensity of life, in\nthe fortunes and characters of the players. Ups and downs,\ngenerosity, dark fates, the most delicate goodness, have nowhere\n20) been more prominent than in the private existence of those devoted\nto the public mimicry of men and women. Contact with the stage,\nalmost throughout its history, presents itself as a kind of\ntouchstone, to bring out the bizarrerie, the theatrical tricks\nand contrasts, of the actual world.",
+        "A sanctuary may be defined as a place where Man is passive and\nthe rest of Nature active. Till quite recently Nature had her\nown sanctuaries, where man either did not go at all or only as\na tool-using animal in comparatively small numbers. But now, in\n5) this machinery age, there is no place left where man cannot go\nwith overwhelming forces at his command. He can strangle to\ndeath all the nobler wild life in the world to-day. To-morrow\nhe certainly will have done so, unless he exercises due\nforesight and self-control in the mean time.\n10) There is not the slightest doubt that birds and mammals are\nnow being killed off much faster than they can breed. And it\nis always the largest and noblest forms of life that suffer\nmost. The whales and elephants, lions and eagles, go. The rats\nand flies, and all mean parasites, remain. This is inevitable\n15) in certain cases. But it is wanton killing off that I am\nspeaking of to-night. Civilized man begins by destroying\nthe very forms of wild life he learns to appreciate most when\nhe becomes still more civilized. The obvious remedy is to begin\nconservation at an earlier stage, when it is easier and better\n20) in every way, by enforcing laws for close seasons, game preserves,\nthe selective protection of certain species, and sanctuaries.\nI have just defined a sanctuary as a place where man is passive\nand the rest of Nature active. But this general definition is too\nabsolute for any special case. The mere fact that man has to\n25) protect a sanctuary does away with his purely passive attitude.\nThen, he can be beneficially active by destroying pests and\nparasites, like bot-flies or mosquitoes, and by finding antidotes\nfor diseases like the epidemic which periodically kills off the\nrabbits and thus starves many of the carnivora to death. But,\n30) except in cases where experiment has proved his intervention to\nbe beneficial, the less he upsets the balance of Nature the\nbetter, even when he tries to be an earthly Providence.",
+        "It has been suggested that long-term prisoners, on release from jail, be given a reasonable state pension\nto reduce the likelihood of their resorting to crime. Most people instinctively reject the suggestion as they\nfeel it would be like rewarding criminal activity.\n\nThe supporters of the prisoners' pension scheme have criticized those who reject this possibility, by\nclaiming that for the critics"
+    ]
+}

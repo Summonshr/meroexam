@@ -1,0 +1,208 @@
+{
+    "questions": [
+        {
+            "question": "Eating, drinking, and to stay up late at night were among her pleasures.",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "to stay up late"
+                },
+                {
+                    "key": "B",
+                    "answer": "to remain up late"
+                },
+                {
+                    "key": "C",
+                    "answer": "staying up late"
+                },
+                {
+                    "key": "D",
+                    "answer": "she liked staying up late"
+                },
+                {
+                    "key": "E",
+                    "answer": "trying to stay up late"
+                }
+            ],
+            "right": [
+                "C"
+            ],
+            "explanation": "The series of gerunds (\"-ing\"-participial verbals used as nouns) require parallel structure. To agree with \"eating\" and \"drinking,\" \"staying up late\" is correct. The infinitive \"to stay/remain\" [(A)/(B)] disagrees with the gerunds \"eating, drinking.\" Adding \"She liked...\" (D) incorrectly places the third verbal into an independent clause with another subject and verb, contradicting the sentence structure-and redundant with \"were among her pleasures.\" \"Trying to stay up late\" (E) changes the meaning."
+        },
+        {
+            "question": "Each night when night came and the temperature fell, my parents lit the fire in the bedroom.",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "and the temperature fell,"
+                },
+                {
+                    "key": "B",
+                    "answer": "and that the temperature did fall"
+                },
+                {
+                    "key": "C",
+                    "answer": "and that the temperature fell"
+                },
+                {
+                    "key": "D",
+                    "answer": "and because the temperature fell"
+                },
+                {
+                    "key": "E",
+                    "answer": "and when the temperature fell"
+                }
+            ],
+            "right": [
+                "A"
+            ],
+            "explanation": "A comma between a modifying phrase/clause and the clause it modifies is correct. Inserting \"that\" [(B), (C)] is incorrect: \"the temperature fell,\" along with \"night darkness came,\" is introduced by the adverb \"when.\" It is not a restrictive relative clause introduced by \"that.\" Past tense \"fell\" is preferred over the awkward \"did fall\" (B). \"Because\" (D) is incorrect: the clause was already introduced by \"when.\" Past-perfect \"had fallen\" (E) disagrees with past-tense \"darkness came\" and \"my parents lit...\""
+        },
+        {
+            "question": "Frances promised to bring the Papago basket that she bought in Arizona.",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "bought in"
+                },
+                {
+                    "key": "B",
+                    "answer": "had bought in"
+                },
+                {
+                    "key": "C",
+                    "answer": "has bought in"
+                },
+                {
+                    "key": "D",
+                    "answer": "did buy in"
+                },
+                {
+                    "key": "E",
+                    "answer": "purchased in"
+                }
+            ],
+            "right": [
+                "B"
+            ],
+            "explanation": "Past perfect is correct because Frances promised (past tense) to bring what she had bought before she promised. Present perfect \"has bought\" (C) disagrees with the past-tense predicate \"promised.\" \"Did buy\" (D) is just an awkward or archaic version of past tense \"bought\" (A); \"purchased\" (E) is simply a past-tense synonym for \"bought\"-all incorrect here. (Frances did not buy the basket at the same time that she promised to bring it.)"
+        },
+        {
+            "question": "He has lain his racquetball glove on the beach.",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "has lain"
+                },
+                {
+                    "key": "B",
+                    "answer": "has laid"
+                },
+                {
+                    "key": "C",
+                    "answer": "have lain"
+                },
+                {
+                    "key": "D",
+                    "answer": "have laid"
+                },
+                {
+                    "key": "E",
+                    "answer": "is lying"
+                }
+            ],
+            "right": [
+                "B"
+            ],
+            "explanation": "The correct present-perfect of transitive verb (i.e. it always takes a direct object) \"to lay\" is \"has laid.\" \"Has lain\" (A) is intransitive, e.g. \"He has lain on this bed before.\" \"Have lain\" (C) uses not only the wrong verb/tense, but also a plural auxiliary verb with a singular subject, like \"have laid\" (D). \"Is lying\" (E) should be \"is laying\" with the object \"racquetball glove;\" but even corrected, changing the tense changes the meaning here."
+        },
+        {
+            "question": "I would have lent you my notes if you would have asked me.",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "would have asked me"
+                },
+                {
+                    "key": "B",
+                    "answer": "could of asked"
+                },
+                {
+                    "key": "C",
+                    "answer": "could ask"
+                },
+                {
+                    "key": "D",
+                    "answer": "had asked"
+                },
+                {
+                    "key": "E",
+                    "answer": "had of asked"
+                }
+            ],
+            "right": [
+                "D"
+            ],
+            "explanation": "In conditional-subjunctive constructions, \"if...\" introduces the conditional clause/phrase, and the corresponding \"then...\" subjunctive uses \"would have.\" Using \"would have\" in the conditional is incorrect. There is no such construction as \"could of\" (B) or \"had of\" (E); these incorrectly substitute the preposition \"of\" for the auxiliary verb \"have.\" \"Could ask\" (C) is wrong in both tense and meaning."
+        },
+        {
+            "question": "Many scientists are still hoping to have found life on another planet.",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "to have found"
+                },
+                {
+                    "key": "B",
+                    "answer": "to find"
+                },
+                {
+                    "key": "C",
+                    "answer": "two find"
+                },
+                {
+                    "key": "D",
+                    "answer": "to have been found"
+                },
+                {
+                    "key": "E",
+                    "answer": "too have found"
+                }
+            ],
+            "right": [
+                "B"
+            ],
+            "explanation": "\"Hoping,\" like \"planning\"/\"dreaming\"/\"expecting,\" etc., is future-oriented and in the present participle (\"-ing\"), requires the infinitive in modifying verbs, i.e. \"hoping to find.\" Scientists cannot hope \"to have found\" [(A), (E)] something already that they are \"still hoping\" to find. \"Two\" (C) is the spelling of the number 2, and \"too\" (E) is the adverb meaning \"also,\" not the preposition \"to.\" \"To have been found\" errs doubly, using both present-perfect tense and passive voice incorrectly here."
+        },
+        {
+            "question": "Because she had an astounding memory, Sue has never forgotten an important equation.",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "had an"
+                },
+                {
+                    "key": "B",
+                    "answer": "could have had"
+                },
+                {
+                    "key": "C",
+                    "answer": "has"
+                },
+                {
+                    "key": "D",
+                    "answer": "did have"
+                },
+                {
+                    "key": "E",
+                    "answer": "has had"
+                }
+            ],
+            "right": [
+                "C"
+            ],
+            "explanation": "With present-perfect \"has never forgotten,\" present-tense \"has an astounding memory\" is correct. \"Had\" (A) and \"did have\" (D) are past-tense; and \"has had\" (E) is present-perfect tense, all implying Sue no longer has an astounding memory, contradicting the statement that she still \"has never forgotten.\" \"Could have had\" (B) completely changes the meaning and also contradicts \"has never forgotten.\""
+        }
+    ],
+    "parent": []
+}

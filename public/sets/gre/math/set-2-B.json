@@ -1,0 +1,171 @@
+{
+    "questions": [
+      {
+        "img": "/questions/10.png",
+        "compare": true,
+        "first": "The length of diagonal AB",
+        "second": "$\\sqrt{2}{e}$",
+        "right": [
+          "A"
+        ]
+      },
+      {
+        "compare": true,
+        "question": "${y}={3x}-{1}$",
+        "first": "${x}$",
+        "second": "$\\frac{y}{3} + {3}$",
+        "right": [
+          "B"
+        ]
+      },
+      {
+        "compare": true,
+        "first": "$37\\times\\frac{37}{36}$",
+        "second": "$37+\\frac{37}{36}$",
+        "right": [
+          "C"
+        ]
+      },
+      {
+        "compare": true,
+        "first": "0.01% of 1,000",
+        "second": "1",
+        "right": [
+          "B"
+        ]
+      },
+      {
+        "compare": true,
+        "question": "$x$ and ${y}$ are positive integers $x>y$",
+        "first": "$\\frac{x^2}{y^3}$",
+        "second": "$\\frac{y^3}{x^2}$",
+        "right": [
+          "D"
+        ]
+      },
+      {
+        "compare": true,
+        "img": "/questions/11.png",
+        "first": "The perimeter of the shaded region in the rectangle",
+        "second": "$2\\sqrt{2} + 2$",
+        "right": [
+          "D"
+        ]
+      },
+      {
+        "question": "$\\frac{-6}{2}$",
+        "options": [
+          {
+            "key": "A",
+            "answer": "$-4$"
+          },
+          {
+            "key": "B",
+            "answer": "$-3$"
+          },
+          {
+            "key": "C",
+            "answer": "$3$"
+          },
+          {
+            "key": "D",
+            "answer": "$4$"
+          },
+          {
+            "key": "E",
+            "answer": "$8$"
+          }
+        ],
+        "right": [
+          "C"
+        ]
+      },
+      {
+        "question": "A rectangular parking lot ${2x}$ feet long and ${x}$ feet wide is to be enlarged so that the lot will be 2 times as long and 3 times as wide as it is now. The area of the enlarged rectangular lot will be how many times the area of the present lot? ",
+        "options": [
+          {
+            "key": "A",
+            "answer": "6"
+          },
+          {
+            "key": "B",
+            "answer": "5"
+          },
+          {
+            "key": "C",
+            "answer": "4"
+          },
+          {
+            "key": "D",
+            "answer": "3"
+          },
+          {
+            "key": "E",
+            "answer": "2"
+          }
+        ],
+        "right": [
+          "A"
+        ]
+      },
+      {
+        "question": "If $2x=5$ and $3y=5$, then $\\frac{4x}{9y}=$ ",
+        "options": [
+          {
+            "key": "A",
+            "answer": "$\\frac{5}{18}$"
+          },
+          {
+            "key": "B",
+            "answer": "$\\frac{5}{16}$"
+          },
+          {
+            "key": "C",
+            "answer": "$\\frac{5}{12}$"
+          },
+          {
+            "key": "D",
+            "answer": "$\\frac{5}{8}$"
+          },
+          {
+            "key": "E",
+            "answer": "$\\frac{5}{4}$"
+          }
+        ],
+        "right": [
+          "C"
+        ]
+      },
+      {
+        "question": "A certain jar contains 100 jelly beans: 50 white, 30 green, 10 yellow, 5 red, 4 purple, and 1 black. If a jelly bean is to be chosen at random, what is the probability that the jelly bean will be neither purple nor red?",
+        "options": [
+          {
+            "key": "A",
+            "answer": "0.09"
+          },
+          {
+            "key": "B",
+            "answer": "0.11"
+          },
+          {
+            "key": "C",
+            "answer": "0.55"
+          },
+          {
+            "key": "D",
+            "answer": "0.91"
+          },
+          {
+            "key": "E",
+            "answer": "0.96"
+          }
+        ],
+        "right": [
+          "D"
+        ]
+      }
+    ],
+    "parent": [
+      
+    ]
+  }

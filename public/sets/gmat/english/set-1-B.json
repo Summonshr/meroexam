@@ -1,0 +1,208 @@
+{
+    "questions": [
+        {
+            "question": "Has any of the witnesses been sworn in yet?",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "Has any of the"
+                },
+                {
+                    "key": "B",
+                    "answer": "Is any of the"
+                },
+                {
+                    "key": "C",
+                    "answer": "Will any of the"
+                },
+                {
+                    "key": "D",
+                    "answer": "Are any of the"
+                },
+                {
+                    "key": "E",
+                    "answer": "Have any of the"
+                }
+            ],
+            "right": [
+                "E"
+            ],
+            "explanation": "\"Any\" can be singular or plural; in this context, plural is more appropriate. When asking questions with plural count nouns, use \"any\" as plural. For singular, \"Has any one of the witnesses...?\" is better. \"Is\" (B), \"will\" (C), and \"are\" (D) are not correct auxiliary verbs in past perfect with \"been.\""
+        },
+        {
+            "question": "TheLusitania sunk on May 7, 1915.",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "sunk"
+                },
+                {
+                    "key": "B",
+                    "answer": "did sink"
+                },
+                {
+                    "key": "C",
+                    "answer": "was sunk"
+                },
+                {
+                    "key": "D",
+                    "answer": "did sank"
+                },
+                {
+                    "key": "E",
+                    "answer": "sank"
+                }
+            ],
+            "right": [
+                "E"
+            ],
+            "explanation": "The past tense of \"sink\" is \"sank.\" \"Sunk\" (A) is part of the present perfect (\"has sunk\"/\"is sunk\"/\"has been sunk\"- passive voice) and past perfect (had sunk\"/\"was sunk\" (C)]/\"had been sunk\"- passive voice) tenses. \"Did sink\" (B) is awkward and unnecessary. \"Did sank\" (D) is incorrect: past-tense auxiliary verbs are never used together with past-tense main verbs (doubling)."
+        },
+        {
+            "question": "Whos in the office now?",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "Whos in"
+                },
+                {
+                    "key": "B",
+                    "answer": "Whose in"
+                },
+                {
+                    "key": "C",
+                    "answer": "Who is in"
+                },
+                {
+                    "key": "D",
+                    "answer": "Who's in"
+                },
+                {
+                    "key": "E",
+                    "answer": "Whose' in"
+                }
+            ],
+            "right": [
+                "D"
+            ],
+            "explanation": "An apostrophe is required in \"who's,\" a contraction of \"who is.\" No apostrophe (A) is incorrect. \"Whose\" (B) is the possessive (i.e. belonging to whom). Its irregular spelling differentiates it from the contraction \"who's\" (like \"its\" vs. \"it's\"). \"Whose\" is never spelled with a final apostrophe (E). \"Who is\" (C) is not incorrect, but expanding the contraction to full form avoids correctly identifying the contraction's correct spelling."
+        },
+        {
+            "question": "There are now many kinds of dictionaries, such as a dictionary of synonyms and antonyms, a biographical dictionary, and a geographical dictionary with pronunciations given.",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "with pronunciations given"
+                },
+                {
+                    "key": "B",
+                    "answer": "that has pronunciations given"
+                },
+                {
+                    "key": "C",
+                    "answer": "with pronunciations' given"
+                },
+                {
+                    "key": "D",
+                    "answer": "that have pronunciations given"
+                },
+                {
+                    "key": "E",
+                    "answer": "that do have pronunciations given"
+                }
+            ],
+            "right": [
+                "A"
+            ],
+            "explanation": "This is the most economical wording of the modifying prepositional phrase. \"That has\" (B) is unwieldy and superfluous. The plural \"pronunciations\" is not possessive and thus should not have an apostrophe (C). \"Have\" [(D), (E)] is plural, disagreeing with the singular subject."
+        },
+        {
+            "question": "Towering 700 feet above the valley floor, Mount Rushmore National Memorial was an impressive site.",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "was an impressive site"
+                },
+                {
+                    "key": "B",
+                    "answer": "is a impressive sight"
+                },
+                {
+                    "key": "C",
+                    "answer": "is an impressive sight"
+                },
+                {
+                    "key": "D",
+                    "answer": "was an impressive sight"
+                },
+                {
+                    "key": "E",
+                    "answer": "is an impressive site"
+                }
+            ],
+            "right": [
+                "C"
+            ],
+            "explanation": "Present tense is more correct when describing something that currently still exists. Also, from the sentence context, \"sight,\" i.e. something to see, is the desired meaning whereas \"site\" [(A), (E)] means a location. Past tense [(A), (D)] would only be correct in context, e.g. \"...was an impressive sight when we visited it last year.\" The article \"a\" (B) is incorrect before a vowel (\"an\" is correct)."
+        },
+        {
+            "question": "San Francisco lays southwest of Sacramento.",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "lays southwest"
+                },
+                {
+                    "key": "B",
+                    "answer": "has laid southwest"
+                },
+                {
+                    "key": "C",
+                    "answer": "is lying southwest"
+                },
+                {
+                    "key": "D",
+                    "answer": "lain southwest"
+                },
+                {
+                    "key": "E",
+                    "answer": "lies southwest"
+                }
+            ],
+            "right": [
+                "E"
+            ],
+            "explanation": "The present tense of \"to lie\" is \"lies.\" \"Lays\" is the present tense of the transitive (taking a direct object) verb \"to lay,\" e.g. \"We lay books on this table.\" \"Has laid\" (B) should be \"has lain,\" but present perfect makes no sense here: San Francisco's location has not moved. Present progressive \"is lying\" (C) is similarly misleading regarding a non-temporary location. \"Lain\" (D) is present perfect/past perfect, not present-and moreover lacks its auxiliary verb (has/had)."
+        },
+        {
+            "question": "Did they know that Labor Day always came on the first Monday in September?",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "came on"
+                },
+                {
+                    "key": "B",
+                    "answer": "comes on"
+                },
+                {
+                    "key": "C",
+                    "answer": "has come on"
+                },
+                {
+                    "key": "D",
+                    "answer": "had come on"
+                },
+                {
+                    "key": "E",
+                    "answer": "has came on"
+                }
+            ],
+            "right": [
+                "B"
+            ],
+            "explanation": "Although the predicate is past-tense (\"Did they know...?\"), something that is still true, like a national holiday, \"always comes on\" the same day in present tense. \"Always came on\" (A) implies it no longer does, as does \"has come\" (C) and \"had come\" (D). \"Has came\" (E) is never used: the present perfect (has) and past perfect (had) both take the form \"come.\""
+        }
+    ],
+    "parent": []
+}

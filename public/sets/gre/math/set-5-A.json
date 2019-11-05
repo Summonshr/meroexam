@@ -1,0 +1,303 @@
+{
+    "questions": [
+        {
+            "question": "Of the following, which is greater than ½ ?",
+            "multiple": true,
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "2/5"
+                },
+                {
+                    "key": "B",
+                    "answer": "4/7"
+                },
+                {
+                    "key": "C",
+                    "answer": "4/9"
+                },
+                {
+                    "key": "D",
+                    "answer": "5/11"
+                },
+                {
+                    "key": "E",
+                    "answer": "6/13"
+                },
+                {
+                    "key": "F",
+                    "answer": "8/15"
+                },
+                {
+                    "key": "G",
+                    "answer": "9/17"
+                }
+            ],
+            "right": [
+                "B",
+                "F",
+                "G"
+            ]
+        },
+        {
+            "question": "If an object travels at five feet per second, how many feet does it travel in one hour?",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "30"
+                },
+                {
+                    "key": "B",
+                    "answer": "300"
+                },
+                {
+                    "key": "C",
+                    "answer": "720"
+                },
+                {
+                    "key": "D",
+                    "answer": "1800"
+                },
+                {
+                    "key": "E",
+                    "answer": "18000"
+                }
+            ],
+            "right": [
+                "E"
+            ]
+        },
+        {
+            "question": "What is the average (arithmetic mean) of all the multiples of ten from 10 to 190 inclusive?",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "90"
+                },
+                {
+                    "key": "B",
+                    "answer": "95"
+                },
+                {
+                    "key": "C",
+                    "answer": "100"
+                },
+                {
+                    "key": "D",
+                    "answer": "105"
+                },
+                {
+                    "key": "E",
+                    "answer": "110"
+                }
+            ],
+            "right": [
+                "C"
+            ]
+        },
+        {
+            "question": "A cubical block of metal weighs 6 pounds. How much will another cube of the same metal weigh if its sides are twice as long?",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "48"
+                },
+                {
+                    "key": "B",
+                    "answer": "32"
+                },
+                {
+                    "key": "C",
+                    "answer": "24"
+                },
+                {
+                    "key": "D",
+                    "answer": "18"
+                },
+                {
+                    "key": "E",
+                    "answer": "12"
+                }
+            ],
+            "right": [
+                "A"
+            ]
+        },
+        {
+            "question": "In a class of 78 students 41 are taking French, 22 are taking German. Of the students taking French or German, 9 are taking both courses. How many students are not enrolled in either course?",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "6"
+                },
+                {
+                    "key": "B",
+                    "answer": "15"
+                },
+                {
+                    "key": "C",
+                    "answer": "24"
+                },
+                {
+                    "key": "D",
+                    "answer": "33"
+                },
+                {
+                    "key": "E",
+                    "answer": "54"
+                }
+            ],
+            "right": [
+                "C"
+            ]
+        },
+        {
+            "question": "A straight fence is to be constructed from posts 6 inches wide and separated by lengths of chain 5 feet long. If a certain fence begins and ends with a post, which of the following could be the length of the fence in feet? (12 inches = 1 foot).",
+            "multiple": true,
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "17"
+                },
+                {
+                    "key": "B",
+                    "answer": "28"
+                },
+                {
+                    "key": "C",
+                    "answer": "35"
+                },
+                {
+                    "key": "D",
+                    "answer": "39"
+                },
+                {
+                    "key": "E",
+                    "answer": "50"
+                }
+            ],
+            "right": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ]
+        },
+        {
+            "question": "$(\\sqrt{2} - \\sqrt{3})^2$",
+            "multiple": true,
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "$5 - 2\\sqrt{6}$"
+                },
+                {
+                    "key": "B",
+                    "answer": "$5 - \\sqrt{6}$"
+                },
+                {
+                    "key": "C",
+                    "answer": "$1 - 2\\sqrt{6}$"
+                },
+                {
+                    "key": "D",
+                    "answer": "$1 - \\sqrt{2}$"
+                },
+                {
+                    "key": "E",
+                    "answer": "$1$"
+                }
+            ],
+            "right": [
+                "A"
+            ]
+        },
+        {
+            "question": "230 + 230 + 230 + 230 = ",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "8120"
+                },
+                {
+                    "key": "B",
+                    "answer": "830"
+                },
+                {
+                    "key": "C",
+                    "answer": "232"
+                },
+                {
+                    "key": "D",
+                    "answer": "230"
+                },
+                {
+                    "key": "E",
+                    "answer": "226"
+                }
+            ],
+            "right": [
+                "C"
+            ]
+        },
+        {
+            "question": "Amy has to visit towns B and C in any order. The roads connecting these towns with her home are shown on the diagram. How many different routes can she take starting from A and returning to A, going through both B and C (but not more than once through each) and not travelling any road twice on the same trip?",
+            "img": "/questions/313.png",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "10"
+                },
+                {
+                    "key": "B",
+                    "answer": "8"
+                },
+                {
+                    "key": "C",
+                    "answer": "6"
+                },
+                {
+                    "key": "D",
+                    "answer": "4"
+                },
+                {
+                    "key": "E",
+                    "answer": "2"
+                }
+            ],
+            "right": [
+                "B"
+            ]
+        },
+        {
+            "question": "In the figure above AD = 4, AB = 3 and CD = 9. What is the area of triangle AEC ?",
+            "img": "/questions/31.png",
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "18"
+                },
+                {
+                    "key": "B",
+                    "answer": "13.5"
+                },
+                {
+                    "key": "C",
+                    "answer": "9"
+                },
+                {
+                    "key": "D",
+                    "answer": "4.5"
+                },
+                {
+                    "key": "E",
+                    "answer": "3"
+                }
+            ],
+            "right": [
+                "D"
+            ]
+        }
+    ],
+    "parent": []
+}

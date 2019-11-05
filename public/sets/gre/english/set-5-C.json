@@ -1,0 +1,234 @@
+{
+    "questions": [
+        {
+            "question": "The paradox in line 28 is resolved according to the author when an individual",
+            "parent": 0,
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "submits to the rule of law and thus is at liberty to do anything that does not harm another person"
+                },
+                {
+                    "key": "B",
+                    "answer": "behaves according to the natural rights of man and not according to imposed rules"
+                },
+                {
+                    "key": "C",
+                    "answer": "agrees to follow the rule of law even when it is against his best interests"
+                },
+                {
+                    "key": "D",
+                    "answer": "belongs to a society which guarantees individual liberty at all times"
+                },
+                {
+                    "key": "E",
+                    "answer": "follows the will of the majority"
+                }
+            ],
+            "right": [
+                "A"
+            ]
+        },
+        {
+            "question": "The author's attitude to law in this passage is best conveyed as",
+            "parent": 0,
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "respect for its inalienable authority"
+                },
+                {
+                    "key": "B",
+                    "answer": "extolling its importance as a human institution"
+                },
+                {
+                    "key": "C",
+                    "answer": "resignation to the need for its imposition on the majority"
+                },
+                {
+                    "key": "D",
+                    "answer": "acceptance of its restrictions"
+                },
+                {
+                    "key": "E",
+                    "answer": "praise for its divine origin"
+                }
+            ],
+            "right": [
+                "B"
+            ]
+        },
+        {
+            "question": "The author would agree with all of the following except",
+            "parent": 0,
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "government must maintain its authority without unduly compromising personal liberty"
+                },
+                {
+                    "key": "B",
+                    "answer": "individual freedom is threatened in the absence of law"
+                },
+                {
+                    "key": "C",
+                    "answer": "justice cannot be ensured in the absence of law"
+                },
+                {
+                    "key": "D",
+                    "answer": "political leaders should use the law as their guide to correct leadership"
+                },
+                {
+                    "key": "E",
+                    "answer": "the law recognizes that all men are capable of recognizing what is in the general interest"
+                }
+            ],
+            "right": [
+                "E"
+            ]
+        },
+        {
+            "question": "The Piltdown skull seemed distinctly human because it had",
+            "parent": 1,
+            "multiple": true,
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "a large brain"
+                },
+                {
+                    "key": "B",
+                    "answer": "thick bones"
+                },
+                {
+                    "key": "C",
+                    "answer": "brow ridges"
+                }
+            ],
+            "right": [
+                "A"
+            ]
+        },
+        {
+            "question": "The scientists of the time made which of the following mistakes",
+            "parent": 1,
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "believed that fossil discoveries would reveal much about human origins"
+                },
+                {
+                    "key": "B",
+                    "answer": "had preconceived ideas about what features an early hominid should have"
+                },
+                {
+                    "key": "C",
+                    "answer": "followed the ideas of Darwin in the face of counterevidence"
+                },
+                {
+                    "key": "D",
+                    "answer": "incorrectly judged the size of the brain"
+                },
+                {
+                    "key": "E",
+                    "answer": "failed to examine other fossil evidence available at the time"
+                }
+            ],
+            "right": [
+                "B"
+            ]
+        },
+        {
+            "question": "The animal bones found buried with the Piltdown Man were all of the following except",
+            "parent": 1,
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "shown to be genuinely Pleistocene"
+                },
+                {
+                    "key": "B",
+                    "answer": "more recent than first thought"
+                },
+                {
+                    "key": "C",
+                    "answer": "unconnected with the human remains"
+                },
+                {
+                    "key": "D",
+                    "answer": "deliberately planted at the site"
+                },
+                {
+                    "key": "E",
+                    "answer": "not originally from the Piltdown site"
+                }
+            ],
+            "right": [
+                "B"
+            ]
+        },
+        {
+            "question": "It can be inferred that it took so long to expose the forgery because",
+            "parent": 1,
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "the forger was exceptionally clever making it difficult to detect the alterations"
+                },
+                {
+                    "key": "B",
+                    "answer": "reliable techniques for dating rocks did not exist until recently"
+                },
+                {
+                    "key": "C",
+                    "answer": "the bones were not subjected to close scrutiny until considerable contradictory evidence accumulated"
+                },
+                {
+                    "key": "D",
+                    "answer": "the scientists had no reason to doubt the credibility of the team who made the discovery"
+                },
+                {
+                    "key": "E",
+                    "answer": "similar fossils from other archeological sites had proved to be genuine"
+                }
+            ],
+            "right": [
+                "C"
+            ]
+        },
+        {
+            "question": "The two parts in bold-face are related to each other in which of the following ways?",
+            "parent": 2,
+            "options": [
+                {
+                    "key": "A",
+                    "answer": "The first is a finding that the author finds unacceptable; the second is the author’s own position"
+                },
+                {
+                    "key": "B",
+                    "answer": "The first is a finding that the author attempts to account for; the second is a finding that contradicts the author’s main conclusion."
+                },
+                {
+                    "key": "C",
+                    "answer": "The first is a fact that the author attempts to account for; The second is data that explicitly supports the author’s main conclusion."
+                },
+                {
+                    "key": "D",
+                    "answer": "The first is a position that the author opposes; the second is the author’s main position."
+                },
+                {
+                    "key": "E",
+                    "answer": "The first is a situation that the author finds paradoxical; the second is an assumption that the author uses to reinforce the paradox."
+                }
+            ],
+            "right": [
+                "C"
+            ]
+        }
+    ],
+    "parent": [
+        "The first and most important rule of legitimate or popular\ngovernment, that is to say, of government whose object is the\ngood of the people, is therefore, as I have observed, to follow\nin everything the general will. But to follow this will it is\n5 necessary to know it, and above all to distinguish it from the\nparticular will, beginning with one's self: this distinction is\nalways very difficult to make, and only the most sublime virtue\ncan afford sufficient illumination for it. As, in order to will,\nit is necessary to be free, a difficulty no less great than the\n10 former arises — that of preserving at once the public liberty\nand the authority of government. Look into the motives which have\ninduced men, once united by their common needs in a general\nsociety, to unite themselves still more intimately by means of\ncivil societies: you will find no other motive than that of\n15 assuring the property, life and liberty of each member by the\nprotection of all. But can men be forced to defend the liberty\nof any one among them, without trespassing on that of others?\nAnd how can they provide for the public needs, without alienating\nthe individual property of those who are forced to contribute to\n20 them? With whatever sophistry all this may be covered over, it is\ncertain that if any constraint can be laid on my will, I am no\nlonger free, and that I am no longer master of my own property,\nif any one else can lay a hand on it. This difficulty, which would\nhave seemed insurmountable, has been removed, like the first, by\n25 the most sublime of all human institutions, or rather by a divine\ninspiration, which teaches mankind to imitate here below the\nunchangeable decrees of the Deity. By what inconceivable art has a\nmeans been found of making men free by making them subject; of\nusing in the service of the State the properties, the persons and\n30 even the lives of all its members, without constraining and without\nconsulting them; of confining their will by their own admission; of\novercoming their refusal by that consent, and forcing them to punish\nthemselves, when they act against their own will? How can it be that\nall should obey, yet nobody take upon him to command, and that all\n35 should serve, and yet have no masters, but be the more free, as, in\napparent subjection, each loses no part of his liberty but what might\nbe hurtful to that of another? These wonders are the work of law. It\nis to law alone that men owe justice and liberty. It is this salutary\norgan of the will of all which establishes, in civil right, the\n40 natural equality between men. It is this celestial voice which\ndictates to each citizen the precepts of public reason, and teaches\nhim to act according to the rules of his own judgment, and not to\nbehave inconsistently with himself. It is with this voice alone that\npolitical rulers should speak when they command; for no sooner does\n45 one man, setting aside the law, claim to subject another to his\nprivate will, than he departs from the state of civil society, and\nconfronts him face to face in the pure state of nature, in which\nobedience is prescribed solely by necessity.",
+        "The tale of Piltdown Man, the most infamous forgery in the\ncontentious detective story of the origins of mankind, began in\n1912. On December 18 that year Charles Dawson, a well-known\namateur British archaeologist, and Arthur Smith Woodward, of\n5 the British Museum of Natural History, announced the discovery\nof some amazing human fossils. The remains comprised nine pieces\nof skull, a broken jaw with two teeth in place, a few stone tools,\nand some animal bones, all of which had been discovered on a farm\nnear Piltdown Common in Sussex.\n10 When pieced together the skull looked distinctly human. Although\nPiltdown Man, as the hominid became known, had unusually thick\nbones, the brain case was large and rounded. There was no sign\nof prominent brow ridges or other apelike features. However, the\nshape of the jaw bone resembled that of an ape. The only human\n15 characteristic of this jaw was the wear on the two molars, which\nwere ground down flat, as is frequently true of hominids who eat\ntough or abrasive foods, such as seeds. In other words the\ncreature had the jaw of an ape and the skull of Homo sapiens.\nThe primitive stone tools found with these remains suggested a\n20 remote age for Piltdown Man, perhaps the Early Pleistocene or\neven the Late Pliocene. (In 1912 experts thought the Pliocene\nlasted from 1 million to 600 000 years ago. Scientists now date\nit to between 5 million and 1.7 million years ago.) This date\nwas also supported by some animal bones found with Piltdown Man.\n25 To most scientists of the time, Piltdown Man fulfilled a\nprediction made by the pioneering evolutionist Charles Darwin,\nwho had believed that humans and the apes could be connected\ngenetically through a still undiscovered creature. Most\nsignificantly, it was half-human in precisely the feature\n30 that was then accepted as the most important difference\nbetween humans and the apes - the brain. At this time there\nwas little fossil evidence to contradict the idea that the\nbrain was among the first of the human features to evolve.\nAs time went on, however, Homo erectus fossils were found in\n35 Java and China, while in South Africa the australopithecines\nwere being discovered. All these fossils had human-like jaws\nand teeth and relatively small brains in contrast to Piltdown\nMan's large cranium and apelike jaw. The large brain simply\ndid not fit with the rest of the fossil evidence. By 1948\n40 scientists knew that bones buried in the earth gradually\nabsorb fluorine. The older a bone, the more fluorine it\ncontains. When the Piltdown materials were tested for fluorine,\nthe skull and jaw fragments turned out to be much younger\nthan the Early Pleistocene animal bones with which the skull\n45 had been found.\nScientists were now very suspicious. In 1953 all the Piltdown\nmaterial was tested for its authenticity. Not only was the\nrecent age of the jaw and skull confirmed, but the jaw proved\nto be that of a modern orangutan, with the teeth filed down\n50 in a quite obvious manner to imitate wear on human teeth.\nBut the forger had not stopped there. A bone tool found\nwith the remains had been made in recent times with a steel\nknife, which leaves different marks than does a stone flake\nor axe. The tools, as well as the animal bones, had been\n55 taken from different archaeological sites.\nOnce the forgery was exposed by modem scientific analysis\nthe mystery was no longer where Piltdown Man came in human\nevolution but who was responsible for the hoax, and why?\nAlthough Dawson, the discoverer of most of the Piltdown\n60 material, is frequently singled out as the person responsible\nfor this practical joke, there is no definite proof and the\nquestion is far from settled.",
+        "Most scientists agree that new lines of interdisciplinary research are the need of the hour. Even\ngovernment committees on science have stressed the need for more interdisciplinary projects. Yet, of ten\nproposals for new interdisciplinary projects last year, only one was successfully funded. Some\nhave suggested that this means that as yet researchers are not coming up with sufficiently persuasive\nprojects, or that their proposals are not of high enough quality, or even that the reputations of these\nresearchers is not high enough. However, the real reason probably lies in the way funding is\norganized. Funding is still allocated according to the old categories and there are no funds\nspecifically for research that overlaps different subject areas."
+    ]
+}
