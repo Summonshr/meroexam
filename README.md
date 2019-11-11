@@ -50,3 +50,5 @@ All the blog contents are created with the help of markdown.
 
 Project depends heavily upon the use of React technology.
 
+
+Contact me @ [LinkedIn](https://www.linkedin.com/in/suman-shresth)
