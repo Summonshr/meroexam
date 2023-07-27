@@ -1,30 +1,34 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Introducing the Impressive Project: GREMAZE** 
 
-![](https://meroexam.com/images/logo.png)
+Don't stress, Do your best, Forget the rest. Gremaze.com is continuous evolving websites for practicing multiple choice questions.
 
-## Available Scripts
+Welcome to our exciting project, powered by [Create React App](https://github.com/facebook/create-react-app), that's set to revolutionize your web development experience!
 
-In the project directory, you can run:
+![Project Logo](https://meroexam.com/images/logo.png)
+
+## Easy Development with Available Scripts
+
+With just a few simple commands, you can unleash the full potential of this project:
 
 ### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Launches the app in a dynamic development mode.  
+Open [http://localhost:3000](http://localhost:3000) to explore it in your browser.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+Watch your changes come to life as the page automatically reloads.  
+And don't worry, any lint errors will be readily visible in the console.
 
 ### `npm compile`
 
-Builts the css files with tailwind attributes
+Experience the magic as the CSS files are built with the power of Tailwind attributes!
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Prepare for an outstanding production-ready app in the `build` folder.  
+This optimization ensures the best possible performance and seamless React bundling.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+The build is meticulously minified, with filenames even including unique hashes.  
+Voila! Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
@@ -49,6 +53,5 @@ React Latex has been used to convert math formulas to human readable form.
 All the blog contents are created with the help of markdown.
 
 Project depends heavily upon the use of React technology.
-
 
 Contact me @ [LinkedIn](https://www.linkedin.com/in/suman-shresth)
