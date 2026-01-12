@@ -24,7 +24,7 @@
     "react-latex": "^1.4.0",
     "react-markdown": "^4.1.0",
     "react-notifications": "^1.4.3",
-    "react-router-dom": "^5.0.1",
+    "react-router-dom": "^6.30.2",
     "react-scripts": "3.1.1",
     "react-share": "^3.0.1",
     "react-tooltip": "^3.11.1",
